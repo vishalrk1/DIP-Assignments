@@ -7,3 +7,9 @@ Take a passport size photo and perform the following:
 - Conver to binary
 - Add a and b
 - Add 20 to a
+
+## Assignment 2 [(Solution)](https://github.com/vishalrk1/DIP-Assignments/blob/main/DIP_Assignment_2.ipynb)
+- perform Histogram Equalization on image
+
+## Assignment 3 [(Solution)](https://github.com/vishalrk1/DIP-Assignments/blob/main/DIP_Assignment_3.ipynb)
+- perform bit-plane slicing on image
